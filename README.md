@@ -1,2 +1,2 @@
 # ebay
-EBAY RESOURCES FOR CUSTOM TEMPLATE
+eBay resources for custom template
